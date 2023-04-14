@@ -1,0 +1,5 @@
+apiVersion: tanka/v1alpha1
+kind: Environment
+metadata:
+  name: my-tanka-env
+argsOneLiner: my-tanka-env/environments/default

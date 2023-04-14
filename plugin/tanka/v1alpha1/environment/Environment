@@ -1,0 +1,5 @@
+#!/bin/bash
+
+shift
+tk show --dangerous-allow-redirect $1
+
